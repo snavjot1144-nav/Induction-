@@ -15,3 +15,7 @@ The day began with an enlightening session by Dr. Jaswinder Singh, who emphasize
 DAY 4
 Time: 9:30 A.M. onward
 The day started with P2P classes taught by two seniors from the IT department, where we learned the basics of C++ syntax. At 10:30 A.M., we attended an English lecture by Prof. Manjot Kaur, where she focused on tenses and conducted an interactive introduction session to understand our names, hobbies, strengths, and weaknesses. Later, at 12:30 P.M., we had an expert lecture by Dr. Priya Darshani Ma’am on Universal Human Values, discussing the difference between temporary and permanent happiness and how we may use certain distractions to escape depression which isn't right. The day ended with a session by the Causmic Club at 2:30 P.M., where they shared their history, achievements, and upcoming goals.
+
+DAY 5
+Time: 10:30 A.M. onward
+The day started with our BEEE (Basic Electrical and Electronics Engineering) class at 10:30 A.M., conducted by Prof. Harminder Kaur. She took our introductions and gave us a general idea of the subject. Then at 11:30 A.M., we had our Chemistry class with Prof. Mandeep Kaur. She gave us insights about what our college journey would look like and also touched upon a few basic chemistry concepts. After lunch, at 2:00 P.M., we were called to the TCC Sem Hall for ID card formalities. We had to submit our details and get a live photo clicked which would be used for our college ID cards.
