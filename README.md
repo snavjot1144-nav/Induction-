@@ -19,3 +19,7 @@ The day started with P2P classes taught by two seniors from the IT department, w
 DAY 5
 Time: 10:30 A.M. onward
 The day started with our BEEE (Basic Electrical and Electronics Engineering) class at 10:30 A.M., conducted by Prof. Harminder Kaur. She took our introductions and gave us a general idea of the subject. Then at 11:30 A.M., we had our Chemistry class with Prof. Mandeep Kaur. She gave us insights about what our college journey would look like and also touched upon a few basic chemistry concepts. After lunch, at 2:00 P.M., we were called to the TCC Sem Hall for ID card formalities. We had to submit our details and get a live photo clicked which would be used for our college ID cards.
+
+DAY 6
+Time: 9:30 A.M. onward
+The day began with our Chemistry Lecture at 9:30 A.M. in our classroom, where Prof. Mandeep Kaur continued teaching us the basics of the subject. After that, at 10:30 A.M., we had a Maths Lecture by Prof. Gagandeep Kaur, where we were introduced to foundational mathematical concepts. At 11:30 A.M., we had a break before heading to the Auditorium sessions. Then at 1:30 P.M., a elderly member of Nankana Sahib Trust praised our college. Lastly, from 2:30 to 4:00 P.M., we attended a session by Dr. Lakhvir Singh Khana, where we discussed career management and leadership qualities essential for engineering students. We were told about NPTEL's online courses and how they could be helpful in our future.
