@@ -23,3 +23,7 @@ The day started with our BEEE (Basic Electrical and Electronics Engineering) cla
 DAY 6
 Time: 9:30 A.M. onward
 The day began with our Chemistry Lecture at 9:30 A.M. in our classroom, where Prof. Mandeep Kaur continued teaching us the basics of the subject. After that, at 10:30 A.M., we had a Maths Lecture by Prof. Gagandeep Kaur, where we were introduced to foundational mathematical concepts. At 11:30 A.M., we had a break before heading to the Auditorium sessions. Then at 1:30 P.M., a elderly member of Nankana Sahib Trust praised our college. Lastly, from 2:30 to 4:00 P.M., we attended a session by Dr. Lakhvir Singh Khana, where we discussed career management and leadership qualities essential for engineering students. We were told about NPTEL's online courses and how they could be helpful in our future.
+
+DAY 7
+Time: 9:30 A.M. onward
+The day began with a series of motivational lectures in the auditorium. First, Dr. Amit Kamra addressed us about Digital Marketing Club from 9:30 to 10:30 A.M., followed by a session on student welfare by Dr. Parminder Singh. At 11:30 A.M., Dr. Randhir Singh explained the "Conduct of Examinations" and academic integrity. After the lunch break, at 1:30 P.M., we had a BEEE lecture by Prof. Harminder Kaur where she gave us insights into the basics of circuits. Then, instead of the scheduled maths lecture, we had our P2P session where seniors continued teaching us C++, covering loops and conditionals.
